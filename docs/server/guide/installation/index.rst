@@ -20,8 +20,8 @@ One time setup:
 	# -------------------install dependencies------------------------
 
 	sudo apt-get update
-	sudo apt-get install git cmake nasm libjpeg-dev libssl-dev 
-	sudo apt-get install libatlas-base-dev
+	sudo apt-get -y install git cmake nasm libjpeg-dev libssl-dev 
+	sudo apt-get -y install libatlas-base-dev
 
 	# ---------------------clone codebase----------------------------
 
